@@ -1,5 +1,5 @@
-const catImgs = ["/Cats/Envy.png","/Cats/Famine.png","/Cats/Fraud.png","/Cats/Gluttony.png","/Cats/Greed.png","/Cats/Judgement.png","/Cats/Violence.png","/Cats/War.png"];
-const backOfCard = "/BackofCard.jpeg";
+const catImgs = ["/Level2JS/Cats/Envy.png","/Level2JS/Cats/Famine.png","/Level2JS/Cats/Fraud.png","/Level2JS/Cats/Gluttony.png","/Level2JS/Cats/Greed.png","/Level2JS/Cats/Judgement.png","/Level2JS/Cats/Violence.png","/Level2JS/Cats/War.png"];
+const backOfCard = "/Level2JS/BackofCard.jpeg";
 let firstClick = "";
 let secondClick = "";
 let clicks = 0;
